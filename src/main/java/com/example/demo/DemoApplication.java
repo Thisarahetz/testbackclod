@@ -11,7 +11,7 @@ public class DemoApplication {
 	public class HelloContoler {
 		@GetMapping(path="/hello")
 		public String Hellowoled(){
-			return "helooooooooooooooooooo";
+			return "helooooooooooooooooooo dineth backend ok springboot thama karanna wenne";
 		}
 	}
 
